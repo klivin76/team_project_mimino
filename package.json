@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://klivin76.github.io/go_it_bl03_mimino",
+  "homepage": "https://klivin76.github.io/team_project_mimino",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /go_it_bl03_mimino/"
+    "build": "parcel build src/*.html --public-url /team_project_mimino/"
   },
   "repository": {
     "type": "git",
